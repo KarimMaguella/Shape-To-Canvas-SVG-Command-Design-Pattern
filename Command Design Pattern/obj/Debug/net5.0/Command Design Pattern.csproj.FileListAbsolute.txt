@@ -1,0 +1,16 @@
+C:\Users\17475552\desktop\projects\Command Design Pattern\bin\Debug\net5.0\Command Design Pattern.exe
+C:\Users\17475552\desktop\projects\Command Design Pattern\bin\Debug\net5.0\Command Design Pattern.deps.json
+C:\Users\17475552\desktop\projects\Command Design Pattern\bin\Debug\net5.0\Command Design Pattern.runtimeconfig.json
+C:\Users\17475552\desktop\projects\Command Design Pattern\bin\Debug\net5.0\Command Design Pattern.runtimeconfig.dev.json
+C:\Users\17475552\desktop\projects\Command Design Pattern\bin\Debug\net5.0\Command Design Pattern.dll
+C:\Users\17475552\desktop\projects\Command Design Pattern\bin\Debug\net5.0\ref\Command Design Pattern.dll
+C:\Users\17475552\desktop\projects\Command Design Pattern\bin\Debug\net5.0\Command Design Pattern.pdb
+C:\Users\17475552\desktop\projects\Command Design Pattern\obj\Debug\net5.0\Command Design Pattern.csprojAssemblyReference.cache
+C:\Users\17475552\desktop\projects\Command Design Pattern\obj\Debug\net5.0\Command Design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\17475552\desktop\projects\Command Design Pattern\obj\Debug\net5.0\Command Design Pattern.AssemblyInfoInputs.cache
+C:\Users\17475552\desktop\projects\Command Design Pattern\obj\Debug\net5.0\Command Design Pattern.AssemblyInfo.cs
+C:\Users\17475552\desktop\projects\Command Design Pattern\obj\Debug\net5.0\Command Design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\17475552\desktop\projects\Command Design Pattern\obj\Debug\net5.0\Command Design Pattern.dll
+C:\Users\17475552\desktop\projects\Command Design Pattern\obj\Debug\net5.0\ref\Command Design Pattern.dll
+C:\Users\17475552\desktop\projects\Command Design Pattern\obj\Debug\net5.0\Command Design Pattern.pdb
+C:\Users\17475552\desktop\projects\Command Design Pattern\obj\Debug\net5.0\Command Design Pattern.genruntimeconfig.cache
